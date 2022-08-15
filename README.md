@@ -1,4 +1,4 @@
-#QR Code Generator using React Js
+# QR Code Generator using React Js
 
 ## Getting Started with Create React App
 
